@@ -5,7 +5,7 @@ La finalidad de este proyecto es hacer un programa que genere listas de datos, y
 * **Bubble sort**     $O(n^2)$
 * **Insertion sort**  $O(n^2)$
 * **Merge sort**      $O(n \log n)$
-* **Quick sort**      $O(n^2)$
+* **Quick sort**      $O(n \log n)$
 * **Heap sort**       $O(n \log n)$
 
 El programa lleva la cuenta de los movimientos que utilizó cada algoritmo de ordenamiento y el tiempo que se tardó en ordenar la lista.
